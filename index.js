@@ -2,4 +2,4 @@
 //
 // SPDX-License-Identifier: MIT
 
-export {default} from "./845501cdfbbf1a83@462.js";
+export {default} from "./graphique@462.js";
